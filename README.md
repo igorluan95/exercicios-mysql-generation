@@ -7,6 +7,6 @@
 
 **SOBRE OS EXERCÍCIOS DESSE REPOSITÓRIO**
 
-*São exercícios realizados durante o Bootcamp da [Generation Brasil](https://brazil.generation.org). Nos exercícios constam: criação de bancos de dados e tabelas; 
-inserção e modificação de dados; relacionamento entre tabelas com manipulação de dados utilizando filtragens e JOIN.*<br>
+*São exercícios realizados durante o Bootcamp da [Generation Brasil](https://brazil.generation.org). Nos exercícios constam: criações de bancos de dados e tabelas; 
+inserções e modificações de dados; relacionamentos entre tabelas com manipulação de dados utilizando filtragens e JOIN.*<br>
 #
